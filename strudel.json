@@ -1,4 +1,5 @@
 {
+  "_base": "https://raw.githubusercontent.com/felixroos/estuary-samples/master/",
   "acordeon": ["acordeon/acordeon0.wav"],
   "altavoz": ["altavoz/grupo.wav", "altavoz/sensacional.wav"],
   "bajo": ["bajo/bajo0.wav", "bajo/bajo1.wav"],
